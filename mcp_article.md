@@ -162,7 +162,7 @@ I built it with modern Python technologies:
 
 ```mermaid
 sequenceDiagram
-    participant Sarah as 👩‍💼 Sarah
+    participant Sarah as 👩💼 Sarah
     participant AI as 🤖 AI Assistant
     participant MCP as 🖥️ Excel MCP Server
     participant Files as 📁 Excel Files

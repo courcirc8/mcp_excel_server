@@ -34,8 +34,7 @@ langgraph-sdk==0.1.70
 langsmith==0.3.44
 markdown-it-py==3.0.0
 mcp==1.9.3
-# Editable install with no version control (mcp-excel-server==1.0.0)
--e /Users/bassem.elsodany/workspaces/mcp_excel_server
+# Removed invalid editable local path from the author's machine
 mcp-server==0.1.4
 mdurl==0.1.2
 msgspec==0.19.0
